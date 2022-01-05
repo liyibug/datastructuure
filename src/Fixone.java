@@ -12,6 +12,7 @@ class Fixone {
         int[] ints=new int[nums.length];
         int temp=0;
         int max=0;
+        int a;
         ints[temp]=0;
         for (int i=0;i<nums.length;i++){
             if (nums[i]==0){
