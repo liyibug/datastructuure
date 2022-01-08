@@ -5,6 +5,7 @@ public class GitTest {
     int b;
     int master;
     int hotfix;
+    int githubtest;
 
     }
 }
