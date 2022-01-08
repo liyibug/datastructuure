@@ -6,6 +6,7 @@ public class GitTest {
     int master;
     int hotfix;
     int githubtest;
+    int mayun;
 
     }
 }
