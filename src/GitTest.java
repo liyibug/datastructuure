@@ -7,6 +7,7 @@ public class GitTest {
     int hotfix;
     int githubtest;
     int mayun;
+    int mayun2;
 
     }
 }
